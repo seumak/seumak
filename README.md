@@ -1,4 +1,4 @@
-## Hi there 👋
+![alt text](https://raw.githubusercontent.com/seumak/.dotfiles/refs/heads/main/.walls/%E3%82%BB%E3%82%A6%E3%83%9E%E3%82%AF.png)
 
 <!--
 **seumak/seumak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
