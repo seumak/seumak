@@ -1,5 +1,15 @@
 ![alt text](https://raw.githubusercontent.com/seumak/.dotfiles/refs/heads/main/.walls/%E3%82%BB%E3%82%A6%E3%83%9E%E3%82%AF.png)
 
+----
+
+### My Stack 🥞
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,arch,apple,neovim,emacs,md,html,css,py,rust,lua,godot" />
+  </a>
+</p>
+
 <!--
 **seumak/seumak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
