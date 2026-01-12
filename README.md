@@ -10,6 +10,10 @@
   </a>
 </p>
 
+----
+
+My projects have moved to [Codeberg](https://codeberg.org/).
+
 <!--
 **seumak/seumak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
