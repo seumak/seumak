@@ -1,17 +1,3 @@
-![alt text](https://raw.githubusercontent.com/seumak/.dotfiles/refs/heads/main/.walls/%E3%82%BB%E3%82%A6%E3%83%9E%E3%82%AF.png)
-
-----
-
-### My Stack 🥞
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,apple,raspberrypi,neovim,emacs,md,html,css,js,rust,lua,godot,figma" />
-  </a>
-</p>
-
-----
-
 My projects have moved to [Codeberg](https://codeberg.org/).
 
 <!--
